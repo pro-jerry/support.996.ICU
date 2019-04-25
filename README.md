@@ -50,7 +50,7 @@ To add your name to the list of supporters, make a pull request with your name a
 
 Supported by / 支持者:
 ---
-
+* He Jun (何军), Software Engineer
 * Adam Yi, Software Engineer
 * Adina Shanholtz, Microsoft
 * Albert Xu (Hanzong Xu), Software Engineer, Freelancer, Student
